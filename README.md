@@ -1,4 +1,7 @@
 # 🂠 Ultimate [Bingo Game](client/src/assets/bingoImage.png)
+<p align="center">
+  <img src="assets/preview.png" alt="Bingo Game Preview" width="700">
+</p>
 
 Welcome to the **Ultimate Bingo Game**, a real-time, interactive grid game where players compete to form lines of crossed numbers. Built with  ReactJs for the frontend and  NodeJs with Socket.IO for real-time multiplayer functionality.
 
