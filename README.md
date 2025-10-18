@@ -1,4 +1,4 @@
-# Ultimate Bingo Game 
+# 🂠 Ultimate [Bingo Game](client/src/assets/bingoImage.png)
 
 Welcome to the **Ultimate Bingo Game**, a real-time, interactive grid game where players compete to form lines of crossed numbers. Built with  ReactJs for the frontend and  NodeJs with Socket.IO for real-time multiplayer functionality.
 
