@@ -211,7 +211,7 @@ function App() {
     <div className="app bg-[#191A2E] relative flex flex-col items-center justify-center h-screen">
       <OnlinePlayers />
       {!gameStarted && (
-        <a className='absolute top-4 right-4 p-4' href='https://github.com/v1pinx/bingo-game' target='_blank' rel='noopener noreferrer'>
+        <a className='absolute top-4 right-4 p-4' href='https://github.com/vikalpshakya/Ultimate-Bingo-game/tree/main' target='_blank' rel='noopener noreferrer'>
           <FaGithub className='text-[#F9F9F9] text-3xl cursor-pointer hover:text-[#E94560] transition-all duration-300' />
         </a>
       )}
